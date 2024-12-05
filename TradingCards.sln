@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradingCards", "TradingCards\TradingCards.csproj", "{DDB32376-5A1B-48B1-AF63-27CB2398027A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDB32376-5A1B-48B1-AF63-27CB2398027A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDB32376-5A1B-48B1-AF63-27CB2398027A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDB32376-5A1B-48B1-AF63-27CB2398027A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDB32376-5A1B-48B1-AF63-27CB2398027A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29D535D2-A084-4F84-B42E-547E045081A0}
+	EndGlobalSection
+EndGlobal
